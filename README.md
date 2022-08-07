@@ -31,6 +31,7 @@ donate - Links you to where you can support the developer of this bot.
 help - Sends this message
 
 ## Notes
+(The token has been shuffled, don't try it)
 This bot was developed by @JaydenRA [GitHub]
 
 Feel free to donate here:
